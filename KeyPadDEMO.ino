@@ -38,8 +38,8 @@
 
 Phant phant("data.sparkfun.com", "wp5Xm8lZm5Hn23KMjZv5", "wzYDjJaBjYTgyxMvJbAK");
 
-char ssid[] = "Christine"; //  your network SSID (name) 
-char pass[] = "tombrec0";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "XXXXXXXXX"; //  your network SSID (name) 
+char pass[] = "XXXXXXXXX";    // your network password (use for WPA, or use as key for WEP)
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 
 // keypad information
